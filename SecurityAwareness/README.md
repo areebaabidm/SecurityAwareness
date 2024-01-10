@@ -46,4 +46,26 @@ By prioritising the safeguarding of your PII and remaining vigilant against pote
 
 For further guidance on protecting your identity and PII, refer to our comprehensive privacy policies and recommended security practices.
 
-***
+### Information Security
+
+Privacy and information security intersect particularly when it comes to safeguarding the confidentiality and appropriate utilisation of Personally Identifiable Information (PII). Both are integral in ensuring that sensitive data remains protected from unauthorised access or misuse.
+
+**Security Practices for Protecting Your Privacy**
+
+Implementing robust security practices is crucial to maintain your privacy and protect your personal information. Consider the following measures to enhance your privacy protection:
+
+1. **Create Unique and Strong Passwords**: Utilise complex passwords with a combination of letters, numbers, and special characters. Avoid using easily guessable information like birthdays or names.
+2. **Regularly Change Passwords**: Periodically update your passwords to mitigate the risk of unauthorised access.
+3. **Exercise Caution When Sharing Personal Information**: Be mindful of the information you share online, especially on public platforms or with unknown entities.
+4. **Shred Unnecessary Documents and Statements**: Properly dispose of physical documents containing sensitive information by shredding them.
+5. **Dispose of Electronic Devices Properly**: Before discarding old electronic devices, ensure they are wiped clean of any stored personal data.
+6. **Be Mindful of Social Media Sharing**: Exercise discretion when sharing personal details or information on social media platforms to prevent misuse.
+7. **Regularly Review Bank Statements**: Monitor your financial statements regularly for any unauthorised or suspicious transactions.
+8. **Regularly Review Privacy Settings**: Check and adjust the privacy settings on your accounts and devices to control the information you share.
+9. **Avoid Public Wi-Fi Networks**: Refrain from using public Wi-Fi networks for sensitive transactions to avoid potential security breaches.
+10. **Use Updated Antivirus Software**: Install and maintain updated antivirus and security software to protect against malware and cyber threats.
+11. **Implement Multi-Factor Authentication**: Enable multi-factor authentication wherever possible to add an extra layer of security to your accounts.
+12. **Regularly Backup Personal Data**: Create backups of your important personal and sensitive data to prevent loss or unauthorised access.
+13. **Sign Out from Online Accounts**: Always log out from your online accounts after use, especially on shared or public devices, to prevent unauthorised access.
+
+By adopting these security practices, you can significantly bolster your privacy defences and minimise the risk of unauthorised access or misuse of your personal information.
