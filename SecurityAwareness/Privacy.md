@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Privacy
 
 Privacy is the fundamental right that allows individuals or groups to selectively disclose personal information and control its dissemination. It involves the ability to maintain confidentiality and autonomy over one's data and expressions.
