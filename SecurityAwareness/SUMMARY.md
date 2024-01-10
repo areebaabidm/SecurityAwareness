@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Privacy](Privacy.md)
+* [Privacy](README.md)
